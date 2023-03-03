@@ -18,10 +18,10 @@ def normal_operator():
     multiplication = 12 * 14
     division = 72 / 6
     exponential = 5 ** 3
-    modulos = 45 % 7
+    modulo = 45 % 7
     floor_division = 33 // 4
 
-    print(addition, subtraction, multiplication, division, exponential, modulos, floor_division)
+    print(addition, subtraction, multiplication, division, exponential, modulo, floor_division)
 
 def assign_operator():
     a = 4 * 3

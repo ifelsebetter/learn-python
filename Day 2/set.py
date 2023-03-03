@@ -60,4 +60,3 @@ def set_list():
 
     print(3 in set9, 2 in set10)
 
-

@@ -32,5 +32,4 @@ def main():
     arrays.list()
 
 
-
 main()

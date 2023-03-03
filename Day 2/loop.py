@@ -18,10 +18,10 @@ def loop():
     print("Password correct the password is " + user_input)
 
     week = ["mon", "tue", "wed", "thurs", "fri", "sat", "sun"]
-    for dayss in week:
+    for days1 in week:
         if day == "fri":
             break
-        print(day)
+        print(day1)
     print("All week day")
 
     user_pass = ""
@@ -32,10 +32,10 @@ def loop():
     print("Password is correct and it is " + user_pass)
 
     weeks = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"]
-    for days in weeks:
-        if days == "saturday":
+    for day2 in weeks:
+        if day2 == "saturday":
             continue
-        print("Day is ", day)
+        print("Day is ", day2)
     print("What day is missing")
 
     weekdays = ["monday", "tuesday", "wednesday", "thursday", "friday"]
@@ -43,5 +43,5 @@ def loop():
 
     for i in weekdays:
         pass
-    for daysss in weekends:
-        print("Today is ", day)
+    for day3 in weekends:
+        print("Today is ", day3)

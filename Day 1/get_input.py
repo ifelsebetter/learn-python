@@ -15,3 +15,4 @@ def get_user_input():
     y = type(b)
 
     print(a, b, x, y)
+

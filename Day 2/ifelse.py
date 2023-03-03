@@ -43,8 +43,3 @@ def check_condition():
 
     print("Try again until you guess it correct")
 
-
-
-
-
-

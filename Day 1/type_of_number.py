@@ -7,6 +7,7 @@ types of number
 3. complex number: num with symbol 2 + 3k
 
 '''
+
 def types_of_number():
     a = 10
     b = 0.2498

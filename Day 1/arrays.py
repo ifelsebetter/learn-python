@@ -86,6 +86,3 @@ def list():
     reverse_list.reverse()
     print(reverse_list)
 
-
-
-

@@ -13,6 +13,3 @@ def tuple_list():
 
     print(int_tuple, str_tuple, mix_tuple, nest_tuple)
 
-
-
-

@@ -1,7 +1,7 @@
 '''
 
 Dictionary work like json file
-use key to accese element
+use key to access element
 
 '''
 
